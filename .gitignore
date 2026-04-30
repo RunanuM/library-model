@@ -1,0 +1,25 @@
+# --- Java and Maven ---
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# --- IDE Specific (NetBeans) ---
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# --- Database & Scripts ---
+*.log
+*.sql.bak
+
+# --- Operating System ---
+.DS_Store
+.directory
+*~
+*.swp
+
